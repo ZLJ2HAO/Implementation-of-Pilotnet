@@ -1,0 +1,278 @@
+shell command:
+
+1. replace the bashrc with the default one:
+/bin/cp /etc/skel/.bashrc ~/
+
+2.
+第一栏的Fan：N/A是风扇转速，从0到100%之间变动，这个速度是计算机期望的风扇转速，实际情况下如果风扇堵转，可能打不到显示的转速。有的设备不会返回转速，因为它不依赖风扇冷却而是通过其他外设保持低温（比如我们实验室的服务器是常年放在空调房间里的）。
+第二栏的Temp：是温度，单位摄氏度。
+第三栏的Perf：是性能状态，从P0到P12，P0表示最大性能，P12表示状态最小性能。
+第四栏下方的Pwr：是能耗，上方的Persistence-M：是持续模式的状态，持续模式虽然耗能大，但是在新的GPU应用启动时，花费的时间更少，这里显示的是off的状态。
+第五栏的Bus-Id是涉及GPU总线的东西，domain:bus:device.function
+第六栏的Disp.A是Display Active，表示GPU的显示是否初始化。
+第五第六栏下方的Memory Usage是显存使用率。
+第七栏是浮动的GPU利用率。
+第八栏上方是关于ECC的东西。
+第八栏下方Compute M是计算模式。
+下面一张表示每个进程占用的显存使用率。
+
+3. 显示当前路径
+pwd
+
+4. sudo gedit ~/.bashrc
+source ~/.bashrc
+make clean 在重新make之前
+
+5. echo $PATH
+
+6. verify cuda
+nvidia-smi
+nvcc --version
+which nvcc
+ldconfig -p | grep cuda
+
+7. 磁盘空间
+df -hl
+df -h
+sudo fdisk -l
+
+8. something[tab][tab]
+
+9. 范例七：取消刚刚配置的 name 这个变量内容
+[root@www ~]# unset name
+
+[root@www ~]# name=VBird
+[root@www ~]# echo $name
+VBird
+[root@www ~]# myname="$name its me"
+[root@www ~]# echo $myname
+VBird its me
+[root@www ~]# myname='$name its me'
+[root@www ~]# echo $myname
+$name its me
+set (see all the parameters) (does not work)
+
+10. caffe_set_mode_cpu()
+
+11. env
+
+12. locale -a(语系变量)
+locale
+LANG=en_US                   <==主语言的环境
+LC_CTYPE="en_US"             <==字符(文字)辨识的编码
+LC_NUMERIC="en_US"           <==数字系统的显示信息
+LC_TIME="en_US"              <==时间系统的显示数据
+LC_COLLATE="en_US"           <==字符串的比较与排序等
+LC_MONETARY="en_US"          <==币值格式的显示等
+LC_MESSAGES="en_US"          <==信息显示的内容，如菜单、错误信息等
+LC_ALL=                      <==整体语系的环境
+
+13. 范例一：列出你目前身份(假设为root)的所有限制数据数值
+[root@www ~]# ulimit -a
+
+14. alias lm='ls -al | more'
+unalias lm
+
+15. generate for mean.binaryproto
+/home/roy/caffe/build/tools/compute_image_mean -backend=lmdb /home/roy/deeplearning-cats-dogs-tutorial/input/train_lmdb /home/roy/deeplearning-cats-dogs-tutorial/input/mean.binaryproto
+
+16. print the model architecture 
+python /home/roy/caffe/python/draw_net.py /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/caffenet_train_val_1.prototxt /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/caffe_model_1.png
+
+17. Solver Definition
+This solver computes the accuracy of the model using the validation set every 1000 iterations. The optimization process will run for a maximum of 40000 iterations and will take a snapshot of the trained model every 5000 iterations.
+
+base_lr, lr_policy, gamma, momentum and weight_decay are hyperparameters that we need to tune to get a good convergence of the model.
+
+I chose lr_policy: "step" with stepsize: 2500, base_lr: 0.001 and gamma: 0.1. In this configuration, we will start with a learning rate of 0.001, and we will drop the learning rate by a factor of ten every 2500 iterations.
+
+18. model training 1
+/home/roy/caffe/build/tools/caffe train --solver /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/solver_1.prototxt 2>&1 | tee /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_1_train.log
+
+Problem: Cannot use GPU in CPU-only Caffe: check mode.
+Solve attempt: 修改一行参数# CPU_ONLY := 1，重新make caffe （make -j）
+result: make all -j8, 项神的beta文件成功make
+
+19. grep -R batch_size
+
+20. Problem: Check failed: error == cudaSuccess (2 vs. 0)  out of memory
+Solve attempt: caffenet_train_val_1.prototxt 
+change line52 batch_size: 50 to batch_size: 10
+change line25 batch_size: 256 to batch_size: 100
+
+21. plotting the learning curve 1
+change plot_learning_curve.py caffe_path = '/home/roy/caffe_threaded-beta/'
+
+python /home/roy/deeplearning-cats-dogs-tutorial/code/plot_learning_curve.py /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_1_train.log /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/caffe_model_1_learning_curve.png
+
+22. model training 2
+/home/roy/caffe_threaded-beta/build/tools/caffe train --solver /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/solver_1.prototxt 2>&1 | tee /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_2_train.log
+
+same solver
+change line52 batch_size: 10 to batch_size: 50
+
+23. plotting the learning curve 2
+python /home/roy/deeplearning-cats-dogs-tutorial/code/plot_learning_curve.py /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_2_train.log /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/caffe_model_2_learning_curve.png
+
+24. model training 3
+/home/roy/caffe_threaded-beta/build/tools/caffe train --solver /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/solver_1.prototxt 2>&1 | tee /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_3_train.log
+
+same solver
+change line25 batch_size: 100 to batch_size: 150
+
+25. plotting the learning curve 3
+python /home/roy/deeplearning-cats-dogs-tutorial/code/plot_learning_curve.py /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_2_train.log /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/caffe_model_3_learning_curve.png
+
+problem: same curve, loss close to 0 before 100 irr
+
+26.
+line 25 250
+line 52 10 
+
+change solver
+test_iter = 50
+test_interval = 50
+base_lr: 0.005
+momentum: 0.5
+/home/roy/caffe_threaded-beta/build/tools/caffe train --solver /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/solver_1.prototxt 2>&1 | tee /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_4_train.log
+
+python /home/roy/deeplearning-cats-dogs-tutorial/code/plot_learning_curve.py /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_4_train.log /home/roy/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/caffe_model_4_learning_curve.png
+
+27. 重新make caffe
+# CUSTOM_CXX := g++ -std=c++0x 
+# USE_CUDNN := 1
+放弃make thread
+重新make master
+
+cude 9.0 安装成功
+nvcc -V cudnn安装成功
+重新解压caffe-master,rename 为caffe，
+#USE_CUDNN := 1变为USE_CUDNN := 1
+WITH_PYTHON_LAYER := 1
+修改Python路径 same as 项神
+INCLUDE_DIRS := $(PYTHON_INCLUDE) /usr/local/include /usr/include/hdf5/serial
+...
+
+不同于项神（makefile）
+将：
+NVCCFLAGS +=-ccbin=$(CXX) -Xcompiler-fPIC $(COMMON_FLAGS)
+替换为：
+NVCCFLAGS += -D_FORCE_INLINES -ccbin=$(CXX) -Xcompiler -fPIC $(COMMON_FLAGS)
+
+将：
+LIBRARIES += glog gflags protobuf boost_system boost_filesystem m hdf5_hl hdf5
+改为：
+LIBRARIES += glog gflags protobuf boost_system boost_filesystem m hdf5_serial_hl hdf5_serial
+
+未将
+#error-- unsupported GNU version! gcc versions later than 4.9 are not supported!
+改为
+//#error-- unsupported GNU version! gcc versions later than 4.9 are not supported!
+
+Makefile:6: *** Makefile.config not found. See Makefile.config.example..  Stop.
+尝试注销解决,失败
+尝试sudo apt-get update,失败
+
+
+cp Makefile.config.example Makefile.config
+sudo gedit Makefile.config
+重新修改
+可以make，但是
+Makefile:594: recipe for target '.build_release/cuda/src/caffe/solvers/nesterov_solver.o' failed
+改成与项神makefile一样
+same problem
+
+修改CUDA_DIR := /usr/local/cuda为CUDA_DIR := /usr/local/cuda-9.0
+
+28. 用项神的 
+注释掉# CUSTOM_CXX := g++ -std=c++0x 
+make all
+不注释# CUSTOM_CXX := g++ -std=c++0x 
+make pycaffe
+
+29. 重新train，same problem
+
+30. 使用新的Make.config
+# For CUDA >= 9.0, comment the *_20 and *_21 lines for compatibility.
+CUDA_ARCH := -gencode arch=compute_20,code=sm_20 \
+		-gencode arch=compute_20,code=sm_21 \
+		-gencode arch=compute_30,code=sm_30 \
+		-gencode arch=compute_35,code=sm_35 \
+		-gencode arch=compute_50,code=sm_50 \
+		-gencode arch=compute_52,code=sm_52 \
+		-gencode arch=compute_60,code=sm_60 \
+		-gencode arch=compute_61,code=sm_61 \
+		-gencode arch=compute_61,code=compute_61
+成功make
+31. solver batch_size 不变
+out of memory
+
+32. _val line 52 batch_size改为100
+same problem
+
+33.
+change caffenet_train_val_1.prototxt
+and solver_1.prototxt
+_val line 52 batch_size改为100
+
+实验发现，修改test的batch_size会改变curve的起点，猜测因为没有遍历test集
+
+34. 
+log2,curve2
+100,50
+base_lr 0.001
+test_interval 150
+
+change base_lr from 0.001 to 0.0001
+log3,curve3
+100,50
+base_lr 0.0001
+test_interval 150
+
+change base_lr from 0.001 to 0.0001
+change weight_decay from 0.0005 to 0.00005
+log4,curve4
+100,50
+base_lr 0.0001
+weight_decay: 0.00005
+test_interval 150
+
+change base_lr from 0.001 to 0.0001
+change momentum from 0.9 to 0.8
+log5,curve5
+100,50
+base_lr 0.0001
+weight_decay: 0.0005
+test_interval 150
+
+change base_lr from 0.001 to 0.0001
+change display from 50 to 10
+log6,curve6
+100,50
+base_lr 0.0001
+test_interval 150
+
+just change batch size from 100 to 128
+
+实验发现，修改train的batch——size会改变iteration的时间，对curve无影响
+
+35.
+/home/ubuntu/caffe/build/tools/caffe train --solver /mnt/sdcard/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/solver_1.prototxt 2>&1 | tee /mnt/sdcard/deeplearning-cats-dogs-tutorial/caffe_models/caffe_model_1/model_1_train.log
+
+36. 显示test.txt和test2.txt文件里包含linux的语句和行数
+grep -n 'linux' test.txt test2.txt
+
+37. 文件改名
+mv test.log test1.txt
+mv -t /opt/soft/test/test4/ log1.txt log2.txt log3.txt 命令将三个文件移动到test4目录中去
+
+38. 删除
+rm log.log
+rm -i *.log
+将 test1子目录及子目录中所有档案删除 rm -r test1
+
+40. 显示文件
+cat -n log2012.log (带行号)
+tac
+
+41. 

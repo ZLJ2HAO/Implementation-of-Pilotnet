@@ -1,0 +1,45 @@
+1.在caffe根目录下运行：
+command:
+sudo ./build/examples/cpp_classification/classification.bin \
+  models/bvlc_reference_caffenet/deploy.prototxt \
+  models/bvlc_reference_caffenet/bvlc_reference_caffenet.caffemodel \
+  data/ilsvrc12/imagenet_mean.binaryproto \
+  data/ilsvrc12/synset_words.txt \
+  examples/images/cat.jpg
+
+result:
+---------- Prediction for examples/images/cat.jpg ----------
+0.3134 - "n02123045 tabby, tabby cat"
+0.2380 - "n02123159 tiger cat"
+0.1235 - "n02124075 Egyptian cat"
+0.1003 - "n02119022 red fox, Vulpes vulpes"
+0.0715 - "n02127052 lynx, catamount"
+
+2.在example/images/目录下面放一张cat.18.jpg的图片，然后在caffe根目录下运行：
+command:
+sudo ./build/examples/cpp_classification/classification.bin \
+  models/bvlc_reference_caffenet/deploy.prototxt \
+  models/bvlc_reference_caffenet/bvlc_reference_caffenet.caffemodel \
+  data/ilsvrc12/imagenet_mean.binaryproto \
+  data/ilsvrc12/synset_words.txt \
+  examples/images/cat.18.jpg
+
+result:
+---------- Prediction for examples/images/cat.18.jpg ----------
+0.1287 - "n04399382 teddy, teddy bear"
+0.1141 - "n02342885 hamster"
+0.0687 - "n02655020 puffer, pufferfish, blowfish, globefish"
+0.0538 - "n01968897 chambered nautilus, pearly nautilus, nautilus"
+0.0469 - "n03724870 mask"
+
+3.在py-classify.py文件的根目录下运行它：
+command：
+python py-classify.py
+
+result：
+281 n02123045 tabby, tabby cat
+282 n02123159 tiger cat
+285 n02124075 Egyptian cat
+277 n02119022 red fox, Vulpes vulpes
+287 n02127052 lynx, catamount
+

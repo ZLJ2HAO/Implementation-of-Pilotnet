@@ -1,0 +1,15 @@
+net: "/home/roy/end-to-end-car-caffe/pilotnet_compression_my.prototxt"
+test_iter: 24
+test_interval: 1000
+base_lr: 0.008
+lr_policy: "step"
+gamma: 0.1
+stepsize: 2500
+display: 100
+max_iter: 10000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "/home/roy/end-to-end-car-caffe/snapshot/pilotnet"
+solver_mode: GPU
+debug_info: false
