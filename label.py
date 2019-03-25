@@ -11,16 +11,15 @@ print('row2 {},col2 {}'.format(row2, col2))
 angle2 = data2[:, 1].astype('float')
 name = data2[:, 0]
 
-
+# set the parameters for the map function
 threshold = 0.5
 max_index = 4
 min_index = 0
 
-
+# below is how map function works
 max_angle = max(angle2)
 min_angle = min(angle2)
 def mapfun(x):
-    # x = x.astype('float')
     if x > 0:
         if (x)/(max_angle) > threshold:
             y = max_index
@@ -88,6 +87,8 @@ val_file.close()
 print("finish label val data")
 print("val max label {}, min label {}".format(max(angle_v), min(angle_v)))
 
+
+# here is the code to show the distribution of the original steering angle
 
 print("angle2 length is {}".format(len(angle2)))
 plt.hist(angle2, bins=np.arange(-1, 1, 0.02))
