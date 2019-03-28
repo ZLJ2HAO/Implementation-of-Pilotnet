@@ -7,7 +7,7 @@ CAFFE_ROOT = "/home/roy/caffe/"
 sys.path.insert(0, CAFFE_ROOT + 'python')
 
 caffe.set_mode_gpu()
-solver = caffe.SGDSolver('/home/roy/end-to-end-car-caffe/pilotnet_solver.prototxt')
+solver = caffe.SGDSolver('/home/roy/Implementation-of-Pilotnet/pilotnet_solver.prototxt')
 
 niter = 10000
 test_interval = 1000

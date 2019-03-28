@@ -3,12 +3,12 @@
 # N.B. set the path to the imagenet train + val data dirs
 set -e
 
-EXAMPLE=/home/roy/end-to-end-car-caffe
-LABEL=/home/roy/end-to-end-car-caffe
+EXAMPLE=/home/roy/Implementation-of-Pilotnet
+LABEL=/home/roy/Implementation-of-Pilotnet
 TOOLS=/home/roy/caffe/build/tools
 
-TRAIN_DATA_ROOT=/home/roy/end-to-end-car-caffe/train/
-VAL_DATA_ROOT=/home/roy/end-to-end-car-caffe/val/
+TRAIN_DATA_ROOT=/home/roy/Implementation-of-Pilotnet/train/
+VAL_DATA_ROOT=/home/roy/Implementation-of-Pilotnet/val/
 
 # Set RESIZE=true to resize the images to 256x256. Leave as false if images have
 # already been resized using another tool.
@@ -42,7 +42,7 @@ GLOG_logtostderr=1 $TOOLS/convert_imageset \
     --resize_width=$RESIZE_WIDTH \
     --shuffle \
     $TRAIN_DATA_ROOT \
-    $LABEL/train.txt \
+    $LABEL/label_train.txt \
     $EXAMPLE/train_lmdb
 
 echo "Creating val lmdb..."
@@ -52,7 +52,7 @@ GLOG_logtostderr=1 $TOOLS/convert_imageset \
     --resize_width=$RESIZE_WIDTH \
     --shuffle \
     $VAL_DATA_ROOT \
-    $LABEL/val.txt \
+    $LABEL/label_val.txt \
     $EXAMPLE/val_lmdb
 
 echo "Done."

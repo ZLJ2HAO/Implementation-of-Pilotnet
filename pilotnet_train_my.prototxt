@@ -8,10 +8,10 @@ layer {
   }
   transform_param {
     mirror: false
-    mean_file: "/home/roy/end-to-end-car-caffe/fornewdataset/mean.binaryproto"
+    mean_file: "/home/roy/Implementation-of-Pilotnet/mean1.binaryproto"
   }
   data_param {
-    source: "/home/roy/end-to-end-car-caffe/fornewdataset/train_lmdb/"
+    source: "/home/roy/Implementation-of-Pilotnet/train_lmdb/"
     batch_size: 150
     backend: LMDB
   }
@@ -26,10 +26,10 @@ layer {
   }
   transform_param {
     mirror: false
-    mean_file: "/home/roy/end-to-end-car-caffe/fornewdataset/mean.binaryproto"
+    mean_file: "/home/roy/Implementation-of-Pilotnet/mean2.binaryproto"
   }
   data_param {
-    source: "/home/roy/end-to-end-car-caffe/fornewdataset/val_lmdb/"
+    source: "/home/roy/Implementation-of-Pilotnet/val_lmdb/"
     batch_size: 50
     backend: LMDB
   }

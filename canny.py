@@ -5,8 +5,8 @@ import glob
 import os
 
 image_list = []
-path = "/home/roy/end-to-end-car-caffe/new_img/"
-folder = "/home/roy/end-to-end-car-caffe/crop_img"
+path = "/home/roy/Implementation-of-Pilotnet/new_img/"
+folder = "/home/roy/Implementation-of-Pilotnet/crop_img"
 cnt = 0
 def do_canny():
     global cnt

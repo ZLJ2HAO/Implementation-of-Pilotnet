@@ -5,8 +5,8 @@ import glob
 import os
 
 image_list = []
-path = "/home/roy/end-to-end-car-caffe/crop_img/"
-folder = "/home/roy/end-to-end-car-caffe/IMG"
+path = "/home/roy/Implementation-of-Pilotnet/crop_img/"
+folder = "/home/roy/Implementation-of-Pilotnet/IMG"
 cnt = 0
 def do_crop():
     global cnt

@@ -35,15 +35,15 @@ Reading mean image, caffe model and its weights
 '''
 #Read mean image
 mean_blob = caffe_pb2.BlobProto()
-with open('/home/roy/end-to-end-car-caffe/mean.binaryproto') as f:
+with open('/home/roy/Implementation-of-Pilotnet/mean.binaryproto') as f:
     mean_blob.ParseFromString(f.read())
 mean_array = np.asarray(mean_blob.data, dtype=np.float32).reshape(
     (mean_blob.channels, mean_blob.height, mean_blob.width))
 
 
 #Read model architecture and trained model's weights
-net = caffe.Net('/home/roy/end-to-end-car-caffe/pilotnet_deploy.prototxt',
-                '/home/roy/end-to-end-car-caffe/snapshot/pilotnet_iter_10000.caffemodel',
+net = caffe.Net('/home/roy/Implementation-of-Pilotnet/pilotnet_deploy.prototxt',
+                '/home/roy/Implementation-of-Pilotnet/snapshot/pilotnet_iter_10000.caffemodel',
                 caffe.TEST)
 
 #Define image transformers
@@ -55,7 +55,7 @@ transformer.set_transpose('data', (2,0,1))
 Making predicitions
 '''
 #Reading image paths
-test_img_paths = [img_path for img_path in glob.glob("/home/roy/end-to-end-car-caffe/val/*jpg")]
+test_img_paths = [img_path for img_path in glob.glob("/home/roy/Implementation-of-Pilotnet/val/*jpg")]
 
 #Making predictions
 test_ids = []
@@ -81,7 +81,7 @@ for img_path in test_img_paths:
 '''
 Making submission file
 '''
-with open("/home/roy/end-to-end-car-caffe/snapshot/submission_model_1.csv","w") as f:
+with open("/home/roy/Implementation-of-Pilotnet/snapshot/submission_model_1.csv","w") as f:
     f.write("id,label\n")
     for i in range(len(test_ids)):
         f.write(str(test_ids[i])+","+str(preds[i])+"\n")

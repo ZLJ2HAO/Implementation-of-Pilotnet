@@ -11,9 +11,9 @@ center_name = data[1:row, 0]
 left_name = data[1:row, 1]
 right_name = data[1:row, 2]
 
-train_path = '/home/roy/end-to-end-car-caffe/train'
-val_path = '/home/roy/end-to-end-car-caffe/val'
-data_base_dir = "/home/roy/end-to-end-car-caffe/new_img"
+train_path = '/home/roy/Implementation-of-Pilotnet/train'
+val_path = '/home/roy/Implementation-of-Pilotnet/val'
+data_base_dir = "/home/roy/Implementation-of-Pilotnet/data/data/IMG"
 dir_list = os.listdir(data_base_dir)
 num_of_picture = len(dir_list)
 
@@ -147,8 +147,8 @@ train_file.close()
 val_file.close()
 
 t = time.time() - start
-print('n is %d'%n)
-print('execution time: %0.3f'%(t))
+print('total image number is %d'%n)
+print('execution time: %0.3f s'%(t))
 
 
 data2 = np.loadtxt('train.txt', delimiter=' ', dtype='str')
