@@ -1,0 +1,2 @@
+~/caffe/build/tools/compute_image_mean /home/roy/end-to-end-car-caffe/fornewdataset/train_lmdb /home/roy/end-to-end-car-caffe/fornewdataset/train_mean.binaryproto
+~/caffe/build/tools/compute_image_mean /home/roy/end-to-end-car-caffe/fornewdataset/val_lmdb /home/roy/end-to-end-car-caffe/fornewdataset/val_mean.binaryproto

@@ -1,5 +1,5 @@
-# Implementation-of-Pilotnet
-This is an implementation of paper [End to End Learning for Self-Driving Cars](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf) in 2016, I use two different datasets for driving dataset, three different structures of Pilotnet and several data augmentation methods. Thank for [Yidi Wang](https://github.com/yidiwang21/Caffe-PilotNet)'s project for building the original structure of Pilotnet. 
+# For new dataset
+For this new dataset I try the new dataset storage format which is **hdf5**.
 # Prerequisite(s)
 * [Caffe](http://caffe.berkeleyvision.org/)
 * Python2.7
@@ -52,7 +52,10 @@ Then you will get several trained models in the `snapshot` folder.
 python prediction.py
 ```
 You will get the prediction submission in the `snapshot` folder.
-# The new dataset
-* The second driving dataset comes from SullyChen's github project (really thank him) which is [driving-datasets](https://github.com/SullyChen/driving-datasets), download this dataset in the `forthenewdata` folder, then follow the instrauction in that forlder.
+
+* The second driving dataset comes from SullyChen's github project (really thank him) which is [driving-datasets](https://github.com/SullyChen/driving-datasets), download this dataset in the `forthenewdata' folder, create two folders named `train' and `val', change the path in `csvreader.py', open the terminal in this folder and type:
+```bash
+python csvreader.py
+```
 
 
