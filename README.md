@@ -26,9 +26,9 @@ You should get two new files now, one named `label_train.txt` for the labeled tr
 ```bash
 python display.py
 ```
-![Histogram of original steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/figure/1.png)
-![Histogram of labeled steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/figure/2.png)
-Blue bar means the training data, orange bar means the testing data.
+![Histogram of original steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/blob/master/figure/1.png)
+![Histogram of labeled steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/blob/master/figure/2.png)
+Blue bar means the training data, orange bar means the testing data
 * Now we can create the **lmdb** format data for Caffe to train. Also we need a meanfile that generated from the **lmdb** format data. Change the path in `create_imagenet.sh` and `compute_mean.sh`, open the terminal in this folder and type: 
 ```bash
 sh create_imagenet.sh
