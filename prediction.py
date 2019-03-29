@@ -35,15 +35,15 @@ Reading mean image, caffe model and its weights
 '''
 #Read mean image
 mean_blob = caffe_pb2.BlobProto()
-with open('/home/roy/Implementation-of-Pilotnet/mean.binaryproto') as f:
+with open('/home/roy/Implementation-of-Pilotnet/mean2.binaryproto') as f:
     mean_blob.ParseFromString(f.read())
 mean_array = np.asarray(mean_blob.data, dtype=np.float32).reshape(
     (mean_blob.channels, mean_blob.height, mean_blob.width))
 
 
 #Read model architecture and trained model's weights
-net = caffe.Net('/home/roy/Implementation-of-Pilotnet/pilotnet_deploy.prototxt',
-                '/home/roy/Implementation-of-Pilotnet/snapshot/pilotnet_iter_10000.caffemodel',
+net = caffe.Net('/home/roy/Implementation-of-Pilotnet/pilotnet_deploy_s.prototxt',
+                '/home/roy/Implementation-of-Pilotnet/snapshot/pilotnet_iter_901.caffemodel',
                 caffe.TEST)
 
 #Define image transformers

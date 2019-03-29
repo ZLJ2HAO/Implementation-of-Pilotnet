@@ -310,7 +310,7 @@ layer {
     decay_mult: 0
   }
   inner_product_param {
-    num_output: 101
+    num_output: 5
     weight_filler {
       type: "gaussian"
       std: 0.01
@@ -330,7 +330,7 @@ layer {
   name: "accuracy"
   type: "Accuracy"
   bottom: "fc8"
-  bottom: "val_label"
+  bottom: "label"
   top: "accuracy"
    include {
     phase: TEST
@@ -341,7 +341,7 @@ layer {
   name: "loss"
   type: "SoftmaxWithLoss"
   bottom: "fc8"
-  bottom: "train_label"
+  bottom: "label"
   top: "loss"
   include {
     phase: TRAIN
@@ -352,7 +352,7 @@ layer {
   name: "loss"
   type: "SoftmaxWithLoss"
   bottom: "fc8"
-  bottom: "val_label"
+  bottom: "label"
   top: "loss"
   include {
     phase: TEST

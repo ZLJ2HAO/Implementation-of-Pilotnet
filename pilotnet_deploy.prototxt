@@ -160,24 +160,6 @@ layer {
   bottom: "fc7"
   top: "fc8"
   inner_product_param {
-    num_output: 10
-    weight_filler {
-      type: "gaussian"
-      std: 0.01
-    }
-    bias_filler {
-      type: "constant"
-      value: 0.1
-    }
-  }
-}
-
-layer {
-  name: "fc9"
-  type: "InnerProduct"
-  bottom: "fc8"
-  top: "fc9"
-  inner_product_param {
     num_output: 5
     weight_filler {
       type: "gaussian"
@@ -189,6 +171,7 @@ layer {
     }
   }
 }
+
 
 layer {
   name: "prob"
