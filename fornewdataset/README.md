@@ -4,11 +4,11 @@ For this new dataset I try the new dataset storage format which is **hdf5**.
 * [Caffe](http://caffe.berkeleyvision.org/)
 * Python2.7
 # Data preparation
-* The first driving dataset comes from ymshao's github project (really thank him) which is [data](https://github.com/ymshao/End-to-End-Learning-for-Self-Driving-Cars), after download the dataset in this folder, create two folders named `train` and `val`, change the path in `csvreader.py`, open the terminal in this folder and type: 
+* The second driving dataset comes from ymshao's github project (really thank him) which is [data](https://github.com/ymshao/End-to-End-Learning-for-Self-Driving-Cars), after download the dataset in this folder, create two folders named `train` and `val`, change the path in `datasetreader.py`, open the terminal in this folder and type: 
 ```bash
-python csvreader.py
+python datasetreader.py
 ```
-Since the original driving dataset is captured from a simulater. In the Nvidia's paper, the driving dataset comes from three cameras located at the left, center and right of the driving car. Since one image is responsible for one steering angle, for the images that comes from left and right cameras, I set **offsets** for these two kinds of images. Also there are too many drving data whose steering angle is 0, so I ignore some data whose steering angle is 0. Please check the details in my `csvreader.py` file. 
+This driving dataset is captured from a center camera of a driving car.
 * Optional: You can use the `crop.py` file to crop the image, which will crop the image, this can serve as a data augmentation method, you can try it if you want. Change the path in `crop.py`, open the terminal in this folder and type: 
 ```bash
 python crop.py

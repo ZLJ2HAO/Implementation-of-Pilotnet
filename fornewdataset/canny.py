@@ -5,8 +5,8 @@ import glob
 import os
 
 image_list = []
-path = "/home/roy/end-to-end-car-caffe/fornewdataset/canny_val/"
-folder = "/home/roy/end-to-end-car-caffe/fornewdataset/val"
+path = "/home/roy/Implementation-of-Pilotnet/fornewdataset/canny_val/"
+folder = "/home/roy/Implementation-of-Pilotnet/fornewdataset/val"
 cnt = 0
 def do_canny():
     global cnt

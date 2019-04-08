@@ -7,17 +7,13 @@ import numpy as np
 
 data = np.loadtxt('data.txt', delimiter=' ', dtype='str')
 [row, col] = data.shape
-# angle = data[1:row, 3].astype('float')
 name = data[0:row, 0]
 
 
-# l = len(angle)
 
-train_path = '/home/roy/end-to-end-car-caffe/fornewdataset/train'
-val_path = '/home/roy/end-to-end-car-caffe/fornewdataset/val'
-data_base_dir = "/home/roy/end-to-end-car-caffe/fornewdataset/driving_dataset"
-# dir_list = os.listdir(data_base_dir)
-# num_of_picture = len(dir_list)
+train_path = '/home/roy/Implementation-of-Pilotnet/fornewdataset/train'
+val_path = '/home/roy/Implementation-of-Pilotnet/fornewdataset/val'
+data_base_dir = "/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset"
 
 start = time.time()
 n = -1
@@ -26,15 +22,7 @@ val_file = open("val.txt", 'w')
 index = 0
 
 
-# angle = data[1:row, 3].astype('float')
-# max_index = 90
-# min_index = 0
-# max_angle = max(angle)
-# min_angle = min(angle)
-# def mapfun(x):
-#     x = x.astype('float')
-#     y = round(x/(max_angle-min_angle)*(max_index-min_index))
-#     return (y.astype('str'))
+# the training pictures:validation pictures = 8:1
 angle = data[0:row, 1]
 zero_num = 0
 nonzero_num = 0
@@ -73,18 +61,17 @@ val_file.close()
 
 t = time.time() - start
 print('n is %d'%n)
-print('execution time: %0.3f'%(t))
+print('execution time: %0.3f ms'%(t))
 
 
 data2 = np.loadtxt('train.txt', delimiter=' ', dtype='str')
 [row2, col2] = data2.shape
-print('row2 {},col2 {}'.format(row2, col2))
+print('the training data has {} images'.format(row2))
+data2 = np.loadtxt('val.txt', delimiter=' ', dtype='str')
+[row2, col2] = data2.shape
+print('the validation data has {} images'.format(row2))
 print('zero num is {}'.format(zero_num))
-angle2 = data2[1:row2, 1].astype('float')
-plt.hist(angle2, bins=np.arange(min(angle2), max(angle2), 1))   #need change something
-plt.title("train angle Histogram")
-plt.xlabel("Value")
-plt.ylabel("Frequency")
+
 
 plt.show()
 
