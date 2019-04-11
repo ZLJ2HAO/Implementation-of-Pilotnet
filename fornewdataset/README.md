@@ -17,11 +17,13 @@ python crop.py
 ```bash
 python canny.py
 ```
-* We want to store the images and their labels in **hdf5** format, and the **hdf5** format file can take the float number as label. So that we need to first map the original float steering angle into integers. Change the path in `label.py`, open the terminal in this folder and type: 
+
+* We want to store the images and their labels in **hdf5** format, and the **hdf5** format file can take the float number as label. You need first create two folders named `train_hdf5_label` and `val_hdf5_label`. Then change the path in `createhdf5.py`, open the terminal in this folder and type:
 ```bash
-python label.py
+python createhdf5.py
 ```
-You should get two new files now, one named `label_train.txt` for the labeled training angle, the other one named `label_val.txt` for the labeled validation angle.
+In each folders you will have a `.h5` file. Change the path in `train_loc.txt` and `val_loc.txt`.
+
 * If you want to see the histogram of the original steering angle and labeled angle. You could change the path in the `display.py` file, open the terminal in this folder and type: 
 ```bash
 python display.py
