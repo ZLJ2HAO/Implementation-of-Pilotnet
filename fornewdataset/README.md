@@ -1,5 +1,5 @@
 # For new dataset
-For this new dataset I try the new dataset storage format which is **hdf5**.
+For this new dataset I implement Pilotnet with a new dataset which is captured from a center camera on a driving car.
 # Prerequisite(s)
 * [Caffe](http://caffe.berkeleyvision.org/)
 * Python2.7
@@ -17,7 +17,7 @@ python crop.py
 ```bash
 python canny.py
 ```
-* We want to store the images and their labels in **lmdb** format, and the **lmdb** format file will only take the integer as label. So that we need to first map the original float steering angle into integers. Change the path in `label.py`, open the terminal in this folder and type: 
+* We want to store the images and their labels in **hdf5** format, and the **hdf5** format file can take the float number as label. So that we need to first map the original float steering angle into integers. Change the path in `label.py`, open the terminal in this folder and type: 
 ```bash
 python label.py
 ```

@@ -1,7 +1,4 @@
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30.jpg 1.110000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/49.jpg -1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/57.jpg 0.300000
@@ -13,7 +10,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/108.jpg 3.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/116.jpg 5.650000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/124.jpg 18.050000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/133.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/135.jpg 12.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/143.jpg 3.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/151.jpg -7.160000
@@ -113,7 +109,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/910.jpg 171.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/918.jpg 187.060000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/926.jpg 192.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/928.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/935.jpg 196.640000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/943.jpg 212.270000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/951.jpg 220.540000
@@ -139,7 +134,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1115.jpg 13.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1125.jpg 11.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1133.jpg 8.670000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1142.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1143.jpg 5.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1151.jpg 5.140000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1159.jpg 5.240000
@@ -193,7 +187,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1550.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1558.jpg 2.220000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1566.jpg 2.120000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1570.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1575.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1583.jpg -1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1591.jpg -1.010000
@@ -216,28 +209,14 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1734.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1742.jpg 0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1750.jpg 0.810000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1755.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1759.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1772.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1780.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1788.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1796.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1804.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1812.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1820.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1828.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1838.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1846.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1854.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1862.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1870.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1878.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1886.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1894.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1899.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1907.jpg 3.230000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1915.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1923.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1928.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1936.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/1944.jpg 0.300000
@@ -256,23 +235,12 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2050.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2058.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2069.jpg -0.200000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2077.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2085.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2093.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2101.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2109.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2117.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2120.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2128.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2136.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2144.jpg 0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2151.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2159.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2167.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2175.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2183.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2191.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2199.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2207.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2217.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2225.jpg -0.610000
@@ -296,16 +264,12 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2373.jpg -0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2381.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2389.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2395.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2401.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2409.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2417.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2425.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2433.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2441.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2450.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2458.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2466.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2474.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2482.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2490.jpg 0.200000
@@ -360,7 +324,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2886.jpg 1.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2894.jpg 4.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2902.jpg 6.150000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2908.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2911.jpg 6.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2919.jpg 2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/2928.jpg -0.810000
@@ -379,7 +342,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3038.jpg 3.530000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3046.jpg 4.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3054.jpg 6.860000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3056.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3063.jpg 4.840000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3072.jpg 4.540000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3081.jpg 4.440000
@@ -415,7 +377,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3326.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3334.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3342.jpg 2.420000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3346.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3351.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3359.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3367.jpg 2.420000
@@ -435,7 +396,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3485.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3493.jpg -0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3502.jpg 0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3506.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3511.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3519.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/3527.jpg 0.710000
@@ -522,7 +482,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4182.jpg 9.080000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4190.jpg 7.660000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4198.jpg 4.240000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4205.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4207.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4215.jpg -1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4223.jpg -3.830000
@@ -567,7 +526,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4542.jpg 22.990000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4550.jpg 23.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4558.jpg 21.180000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4561.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4567.jpg 18.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4575.jpg 18.250000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4583.jpg 17.550000
@@ -585,7 +543,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4684.jpg 11.900000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4694.jpg 11.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4702.jpg 11.390000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4704.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4711.jpg 8.170000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4720.jpg 3.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4728.jpg 1.010000
@@ -605,7 +562,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4845.jpg 0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4853.jpg 0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4862.jpg 2.320000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4870.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4871.jpg 6.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4879.jpg 11.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/4887.jpg 14.220000
@@ -677,7 +633,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5421.jpg -20.470000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5430.jpg -20.470000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5438.jpg -19.560000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5442.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5447.jpg -18.860000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5455.jpg -18.860000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5463.jpg -20.070000
@@ -729,7 +684,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5838.jpg -15.830000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5846.jpg -17.140000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5854.jpg -17.340000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5855.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5863.jpg -17.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5871.jpg -17.650000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/5879.jpg -17.450000
@@ -778,7 +732,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6229.jpg 3.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6238.jpg 8.270000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6246.jpg 12.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6254.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6255.jpg 13.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6263.jpg 17.340000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6272.jpg 17.040000
@@ -817,7 +770,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6542.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6550.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6558.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6559.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6568.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6576.jpg 3.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6584.jpg 3.630000
@@ -870,7 +822,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6966.jpg 174.860000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6974.jpg 122.320000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6982.jpg 55.660000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6984.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/6991.jpg 24.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7000.jpg 10.490000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7008.jpg 1.110000
@@ -896,7 +847,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7172.jpg -1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7182.jpg -2.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7190.jpg -3.830000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7196.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7199.jpg -5.140000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7207.jpg -5.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7216.jpg -1.210000
@@ -935,7 +885,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7484.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7494.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7502.jpg 0.200000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7504.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7513.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7521.jpg -0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7530.jpg 0.200000
@@ -951,7 +900,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7614.jpg -1.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7622.jpg -2.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7630.jpg -1.110000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7635.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7646.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7647.jpg -0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7655.jpg -1.920000
@@ -969,7 +917,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7758.jpg 18.860000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7766.jpg 16.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7774.jpg 16.240000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7778.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7783.jpg 15.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7792.jpg 15.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7800.jpg 16.340000
@@ -983,7 +930,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7867.jpg 12.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7877.jpg 6.050000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7886.jpg 2.020000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7887.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7895.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7903.jpg 1.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/7912.jpg -1.410000
@@ -1006,12 +952,10 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8050.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8058.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8066.jpg 0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8072.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8080.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8088.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8102.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8110.jpg -0.610000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8111.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8119.jpg -1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8127.jpg -0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8135.jpg -0.300000
@@ -1042,7 +986,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8341.jpg -2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8349.jpg -2.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8358.jpg 2.020000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8362.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8367.jpg 3.830000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8375.jpg 4.340000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8384.jpg 2.720000
@@ -1053,7 +996,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8426.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8434.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8443.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8451.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8455.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8463.jpg 2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8471.jpg 6.550000
@@ -1110,7 +1052,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8886.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8894.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8902.jpg 0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8910.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8911.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8919.jpg -0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/8927.jpg -1.310000
@@ -1135,7 +1076,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9085.jpg 22.890000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9093.jpg 25.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9101.jpg 28.030000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9109.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9111.jpg 28.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9119.jpg 25.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9127.jpg 25.410000
@@ -1205,7 +1145,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9646.jpg -10.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9654.jpg -10.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9662.jpg -11.800000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9663.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9672.jpg -12.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9680.jpg -12.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9688.jpg -11.290000
@@ -1218,7 +1157,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9746.jpg 9.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9754.jpg 2.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9762.jpg 0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9768.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9779.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9787.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/9795.jpg -2.120000
@@ -1259,57 +1197,20 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10078.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10086.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10094.jpg -0.200000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10096.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10104.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10112.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10120.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10128.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10136.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10144.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10152.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10160.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10168.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10176.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10184.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10192.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10200.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10208.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10216.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10224.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10232.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10240.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10248.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10256.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10264.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10272.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10280.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10288.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10296.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10304.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10312.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10320.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10328.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10336.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10344.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10352.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10360.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10368.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10376.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10384.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10392.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10400.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10408.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10416.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10424.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10432.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10440.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10448.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10462.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10470.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10478.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10486.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10494.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10496.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10503.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10511.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/10519.jpg 0.500000
@@ -1378,7 +1279,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11029.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11037.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11045.jpg 3.230000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11052.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11055.jpg 3.530000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11063.jpg 2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11071.jpg 1.510000
@@ -1442,7 +1342,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11542.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11550.jpg 3.730000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11558.jpg 3.930000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11564.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11568.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11577.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11585.jpg 1.110000
@@ -1485,7 +1384,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11886.jpg -16.540000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11894.jpg -16.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11902.jpg -15.830000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11905.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11911.jpg -15.730000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11919.jpg -15.730000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/11927.jpg -15.730000
@@ -1503,7 +1401,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12026.jpg 2.020000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12035.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12045.jpg -0.400000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12054.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12055.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12064.jpg 2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12072.jpg 3.030000
@@ -1561,7 +1458,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12493.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12501.jpg -2.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12509.jpg -3.030000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12515.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12519.jpg -3.330000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12527.jpg -3.230000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12535.jpg -2.220000
@@ -1606,7 +1502,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12854.jpg 7.870000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12862.jpg 7.870000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12870.jpg 7.870000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12878.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12879.jpg 7.870000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12888.jpg 7.460000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/12896.jpg 5.950000
@@ -1646,14 +1541,11 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13173.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13181.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13189.jpg 0.400000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13193.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13201.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13212.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13220.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13228.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13237.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13246.jpg 0.610000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13249.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13255.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13263.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13271.jpg 1.920000
@@ -1722,7 +1614,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13782.jpg 30.760000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13790.jpg 29.340000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13798.jpg 18.550000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13803.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13807.jpg 5.340000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13816.jpg -0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/13824.jpg -1.510000
@@ -1762,7 +1653,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14100.jpg -1.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14108.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14117.jpg 2.820000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14124.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14127.jpg 2.620000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14135.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14144.jpg -1.110000
@@ -1806,7 +1696,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14453.jpg 10.490000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14461.jpg 7.160000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14470.jpg 3.830000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14477.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14479.jpg 1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14488.jpg -2.620000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14497.jpg -3.330000
@@ -1820,7 +1709,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14562.jpg -6.760000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14570.jpg -4.240000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14578.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14589.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14591.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14599.jpg 1.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/14607.jpg 0.400000
@@ -1898,7 +1786,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15189.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15198.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15206.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15207.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15215.jpg 2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15223.jpg 4.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15231.jpg 3.030000
@@ -1934,7 +1821,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15476.jpg -19.760000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15485.jpg -19.060000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15493.jpg -16.440000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15500.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15503.jpg -16.240000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15511.jpg -16.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15519.jpg -14.920000
@@ -1995,7 +1881,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15966.jpg -10.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15974.jpg -9.980000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15982.jpg -10.180000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15989.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/15991.jpg -10.290000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16000.jpg -10.690000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16008.jpg -10.690000
@@ -2008,7 +1893,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16065.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16075.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16085.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16089.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16095.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16103.jpg 3.530000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16111.jpg 7.970000
@@ -2100,7 +1984,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16805.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16813.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16821.jpg 1.510000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16824.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16832.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16840.jpg 1.410000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/16848.jpg 1.310000
@@ -2149,7 +2032,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17197.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17206.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17214.jpg 0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17216.jpg -0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17223.jpg -1.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17231.jpg -1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17239.jpg -0.610000
@@ -2194,7 +2076,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17558.jpg 1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17566.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17574.jpg 1.010000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17576.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17583.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17592.jpg 2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17600.jpg 2.120000
@@ -2234,7 +2115,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17878.jpg 8.970000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17886.jpg 7.760000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17894.jpg 7.360000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17897.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17903.jpg 5.950000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17912.jpg 3.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/17920.jpg 2.220000
@@ -2294,10 +2174,8 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18355.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18361.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18369.jpg -0.910000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18382.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18389.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18398.jpg 1.110000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18400.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18407.jpg 1.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18415.jpg 1.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18423.jpg 3.430000
@@ -2347,7 +2225,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18777.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18789.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18798.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18799.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18807.jpg 2.020000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18815.jpg 2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/18823.jpg 4.340000
@@ -2392,7 +2269,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19141.jpg -16.340000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19149.jpg -10.690000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19157.jpg -2.020000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19166.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19167.jpg 1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19175.jpg 6.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19183.jpg 7.760000
@@ -2459,7 +2335,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19674.jpg 3.330000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19682.jpg 2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19690.jpg 1.410000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19700.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19704.jpg -1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19712.jpg -2.220000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19720.jpg -0.200000
@@ -2478,7 +2353,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19829.jpg -9.480000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19838.jpg -7.060000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19846.jpg -6.350000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19850.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19855.jpg -5.140000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19863.jpg -6.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/19871.jpg -8.470000
@@ -2545,7 +2419,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20366.jpg 4.240000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20374.jpg 4.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20382.jpg 4.130000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20387.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20392.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20400.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20408.jpg 1.210000
@@ -2565,7 +2438,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20526.jpg -11.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20534.jpg -2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20542.jpg -1.710000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20548.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20551.jpg -1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20559.jpg -0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20567.jpg 1.410000
@@ -2617,7 +2489,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20942.jpg 11.700000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20950.jpg 9.480000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20958.jpg 11.190000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20959.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20967.jpg 12.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20976.jpg 12.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/20985.jpg 11.190000
@@ -2636,7 +2507,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21093.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21101.jpg 1.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21109.jpg 0.400000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21118.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21119.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21127.jpg -2.220000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21135.jpg -2.320000
@@ -2675,7 +2545,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21406.jpg 17.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21414.jpg 15.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21422.jpg 15.230000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21423.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21431.jpg 12.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21439.jpg 10.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21448.jpg 9.880000
@@ -2723,7 +2592,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21790.jpg 4.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21798.jpg 4.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21806.jpg 3.830000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21807.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21816.jpg 3.730000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21824.jpg 4.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/21832.jpg 7.970000
@@ -2756,7 +2624,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22049.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22057.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22069.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22076.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22080.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22088.jpg -1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22096.jpg 0.300000
@@ -2765,7 +2632,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22126.jpg 2.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22134.jpg 1.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22142.jpg -2.720000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22150.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22151.jpg -2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22159.jpg -1.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22167.jpg 1.310000
@@ -2789,7 +2655,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22318.jpg -3.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22326.jpg -5.040000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22334.jpg -5.750000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22340.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22343.jpg -7.360000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22351.jpg -7.360000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22359.jpg -7.360000
@@ -2836,7 +2701,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22694.jpg -6.150000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22702.jpg -6.150000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22710.jpg -6.250000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22716.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22720.jpg -6.150000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22729.jpg -5.950000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/22737.jpg -6.150000
@@ -2879,7 +2743,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23038.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23046.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23054.jpg 0.610000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23055.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23063.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23071.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23079.jpg 0.610000
@@ -2899,7 +2762,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23196.jpg 11.800000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23206.jpg 12.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23214.jpg 12.910000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23216.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23224.jpg 13.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23232.jpg 12.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23241.jpg 12.100000
@@ -2930,7 +2792,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23445.jpg 1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23453.jpg 1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23462.jpg 1.510000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23466.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23471.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23481.jpg -1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23489.jpg -2.920000
@@ -2981,7 +2842,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23854.jpg 2.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23862.jpg 3.730000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23870.jpg 3.730000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23876.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23879.jpg 10.490000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23888.jpg 12.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/23896.jpg 12.200000
@@ -3017,9 +2877,7 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24142.jpg -10.890000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24150.jpg -7.260000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24158.jpg -3.330000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24162.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24167.jpg -1.010000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24181.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24185.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24194.jpg 1.410000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24202.jpg 2.620000
@@ -3058,7 +2916,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24470.jpg -33.080000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24478.jpg -89.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24486.jpg -135.930000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24493.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24495.jpg -148.240000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24503.jpg -133.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24511.jpg -100.030000
@@ -3101,7 +2958,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24812.jpg -1.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24820.jpg -1.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24828.jpg -0.200000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24836.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24839.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24847.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/24855.jpg 0.500000
@@ -3159,7 +3015,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25276.jpg 2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25285.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25293.jpg 0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25301.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25303.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25311.jpg -4.540000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25319.jpg -10.490000
@@ -3198,7 +3053,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25590.jpg 4.940000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25598.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25606.jpg -2.320000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25612.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25615.jpg -1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25623.jpg -0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/25633.jpg 0.910000
@@ -3250,7 +3104,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26006.jpg -17.140000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26014.jpg -9.380000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26022.jpg -5.550000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26028.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26031.jpg 2.620000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26039.jpg 3.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26047.jpg 3.430000
@@ -3282,7 +3135,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26261.jpg 21.780000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26270.jpg 17.750000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26278.jpg 12.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26280.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26288.jpg 10.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26296.jpg 12.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26304.jpg 13.510000
@@ -3344,7 +3196,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26758.jpg -8.080000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26766.jpg -5.450000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26774.jpg -5.450000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26782.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26783.jpg -4.840000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26791.jpg -4.840000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/26800.jpg -4.840000
@@ -3380,7 +3231,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27046.jpg 30.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27054.jpg 39.530000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27062.jpg 46.390000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27063.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27071.jpg 50.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27079.jpg 54.250000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27087.jpg 54.350000
@@ -3436,7 +3286,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27494.jpg 24.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27502.jpg 22.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27510.jpg 22.390000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27513.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27519.jpg 22.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27527.jpg 23.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/27535.jpg 24.910000
@@ -3501,7 +3350,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28014.jpg 24.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28022.jpg 28.440000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28030.jpg 35.290000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28035.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28039.jpg 37.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28047.jpg 36.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28055.jpg 34.390000
@@ -3570,7 +3418,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28566.jpg -18.860000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28574.jpg -19.360000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28582.jpg -20.770000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28585.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28591.jpg -20.470000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28599.jpg -20.470000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28607.jpg -20.170000
@@ -3602,7 +3449,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28821.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28829.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28838.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28842.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28847.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28855.jpg 1.410000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28863.jpg 1.510000
@@ -3620,7 +3466,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28962.jpg -0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28973.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28982.jpg -1.110000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28990.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28991.jpg -2.020000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/28999.jpg -1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29007.jpg -0.810000
@@ -3639,7 +3484,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29117.jpg -2.620000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29126.jpg -2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29134.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29135.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29143.jpg 3.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29151.jpg 4.840000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29159.jpg 5.240000
@@ -3718,7 +3562,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29750.jpg 6.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29758.jpg 7.560000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29766.jpg 5.650000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29768.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29775.jpg 2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29783.jpg 0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29791.jpg -0.500000
@@ -3737,7 +3580,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29901.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29910.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29918.jpg -6.960000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29925.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29927.jpg -10.390000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29936.jpg -14.320000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/29944.jpg -14.620000
@@ -3775,7 +3617,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30206.jpg -2.220000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30214.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30222.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30225.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30231.jpg 1.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30239.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30247.jpg 2.420000
@@ -3826,7 +3667,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30613.jpg 38.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30621.jpg 38.320000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30629.jpg 38.520000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30638.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30639.jpg 29.750000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30647.jpg 22.790000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/30655.jpg 17.450000
@@ -3878,7 +3718,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31030.jpg -74.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31038.jpg -73.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31046.jpg -73.010000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31049.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31056.jpg -71.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31064.jpg -73.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31072.jpg -75.330000
@@ -3907,7 +3746,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31262.jpg -13.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31270.jpg -13.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31278.jpg -12.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31280.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31288.jpg -7.970000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31296.jpg -6.550000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31304.jpg -7.870000
@@ -3916,9 +3754,7 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31328.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31336.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31344.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31352.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31361.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31367.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31375.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31383.jpg -1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31391.jpg -1.010000
@@ -3984,7 +3820,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31877.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31886.jpg -6.960000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31894.jpg -7.560000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31899.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31903.jpg -6.860000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31912.jpg -6.960000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/31920.jpg -0.610000
@@ -4009,7 +3844,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32075.jpg 21.680000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32084.jpg 24.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32093.jpg 25.710000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32100.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32103.jpg 24.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32111.jpg 20.770000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32119.jpg 19.260000
@@ -4043,7 +3877,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32350.jpg 1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32358.jpg 1.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32366.jpg 2.520000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32368.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32375.jpg 5.340000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32383.jpg 8.670000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/32391.jpg 8.170000
@@ -4135,7 +3968,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33086.jpg 5.950000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33094.jpg 5.040000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33102.jpg 3.830000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33108.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33112.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33120.jpg -2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33128.jpg -5.340000
@@ -4202,7 +4034,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33622.jpg -49.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33630.jpg -48.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33638.jpg -46.590000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33641.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33647.jpg -46.590000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33655.jpg -46.590000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33663.jpg -45.280000
@@ -4231,7 +4062,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33854.jpg 2.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33862.jpg 3.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33870.jpg 3.030000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33874.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33879.jpg 8.470000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33887.jpg 9.780000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/33896.jpg 9.080000
@@ -4278,7 +4108,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34230.jpg -56.570000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34238.jpg -65.140000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34246.jpg -74.920000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34248.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34255.jpg -74.520000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34263.jpg -66.350000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34271.jpg -55.970000
@@ -4340,7 +4169,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34726.jpg -5.650000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34734.jpg -2.420000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34742.jpg -0.400000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34743.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34751.jpg 3.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34761.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/34770.jpg 0.400000
@@ -4405,7 +4233,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35246.jpg -19.970000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35254.jpg -21.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35262.jpg -21.180000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35264.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35271.jpg -21.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35279.jpg -21.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35287.jpg -17.450000
@@ -4445,7 +4272,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35566.jpg 28.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35574.jpg 13.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35582.jpg 2.820000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35585.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35592.jpg -1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35601.jpg -5.650000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35609.jpg -8.270000
@@ -4483,7 +4309,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35870.jpg -44.570000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35878.jpg -39.830000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35886.jpg -28.240000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35892.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35895.jpg -13.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35903.jpg -0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/35911.jpg 7.160000
@@ -4555,7 +4380,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36446.jpg 46.490000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36454.jpg 47.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36462.jpg 47.700000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36463.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36471.jpg 47.700000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36479.jpg 48.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/36488.jpg 50.120000
@@ -4700,7 +4524,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37604.jpg 2.020000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37613.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37621.jpg -0.810000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37628.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37634.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37642.jpg 1.110000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/37650.jpg 0.710000
@@ -4751,7 +4574,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38014.jpg -1.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38022.jpg -1.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38030.jpg -0.500000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38032.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38039.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38047.jpg 3.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38055.jpg 3.530000
@@ -4781,7 +4603,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38253.jpg -13.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38261.jpg -25.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38270.jpg -31.660000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38277.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38279.jpg 5.950000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38287.jpg 48.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38295.jpg 71.600000
@@ -4806,7 +4627,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38454.jpg 43.760000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38462.jpg 6.760000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38470.jpg -3.430000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38476.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38479.jpg 12.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38487.jpg 13.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/38495.jpg 13.010000
@@ -4942,7 +4762,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39542.jpg 9.680000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39550.jpg 9.980000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39558.jpg 9.980000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39562.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39567.jpg 9.980000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39575.jpg 7.660000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39583.jpg 7.560000
@@ -4978,7 +4797,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39830.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39838.jpg 0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39846.jpg 0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39847.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39855.jpg -0.200000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39863.jpg -0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39873.jpg 3.630000
@@ -4996,7 +4814,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39974.jpg 0.810000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39982.jpg -1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39990.jpg 0.200000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39995.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/39999.jpg 3.530000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40007.jpg 3.930000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40016.jpg 3.030000
@@ -5016,7 +4833,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40134.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40142.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40150.jpg -0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40152.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40161.jpg 1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40169.jpg 1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40177.jpg 0.710000
@@ -5073,7 +4889,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40589.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40598.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40606.jpg 2.320000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40612.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40615.jpg 1.410000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40623.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40631.jpg 0.200000
@@ -5088,11 +4903,8 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40709.jpg 2.720000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40717.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40725.jpg 0.200000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40730.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40738.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40744.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40753.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40764.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40772.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40775.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40784.jpg 0.200000
@@ -5112,7 +4924,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40900.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40908.jpg -0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40916.jpg -0.400000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40919.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40928.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40936.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/40944.jpg 0.910000
@@ -5152,7 +4963,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41222.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41230.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41238.jpg 0.610000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41245.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41247.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41255.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41263.jpg 0.910000
@@ -5172,7 +4982,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41376.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41384.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41392.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41403.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41412.jpg 1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41420.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41428.jpg 0.810000
@@ -5182,7 +4991,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41461.jpg 4.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41470.jpg 2.920000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41478.jpg 2.120000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41485.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41487.jpg -0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41496.jpg -1.510000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41505.jpg -0.910000
@@ -5203,19 +5011,15 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41629.jpg 3.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41637.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41645.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41653.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41658.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41666.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41675.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41685.jpg 0.910000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41690.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41699.jpg -0.300000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41708.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41717.jpg -0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41726.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41734.jpg 0.100000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41739.jpg 0.000000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41750.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41751.jpg 0.710000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41759.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41768.jpg 1.410000
@@ -5245,7 +5049,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41964.jpg 1.210000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41973.jpg 0.910000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41982.jpg -0.300000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41986.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41991.jpg -1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/41999.jpg -3.230000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42007.jpg -3.230000
@@ -5271,7 +5074,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42173.jpg 2.120000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42182.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42190.jpg 1.010000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42196.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42199.jpg -3.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42207.jpg -23.190000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42215.jpg -56.370000
@@ -5303,7 +5105,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42428.jpg 2.820000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42436.jpg 5.650000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42446.jpg 2.420000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42448.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42455.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42463.jpg 1.310000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42472.jpg 1.510000
@@ -5314,7 +5115,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42512.jpg -0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42521.jpg 1.010000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42529.jpg 1.410000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42542.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42550.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42552.jpg 0.400000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42560.jpg 5.140000
@@ -5359,7 +5159,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42877.jpg 3.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42886.jpg 2.320000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42894.jpg 2.320000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42897.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42903.jpg 0.500000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42912.jpg -3.430000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/42920.jpg -7.560000
@@ -5388,7 +5187,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43108.jpg 0.610000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43117.jpg 0.100000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43125.jpg 1.410000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43134.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43135.jpg 4.740000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43143.jpg 5.750000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43151.jpg 6.660000
@@ -5413,7 +5211,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43309.jpg 4.130000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43317.jpg 5.850000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43326.jpg 6.250000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43330.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43335.jpg 6.250000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43343.jpg 3.730000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43351.jpg 5.340000
@@ -5481,7 +5278,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43853.jpg -15.630000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43862.jpg -19.870000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43870.jpg -19.870000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43877.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43879.jpg -21.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43887.jpg -21.180000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/43895.jpg -18.860000
@@ -5583,7 +5379,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44670.jpg 9.780000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44678.jpg 9.780000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44686.jpg 9.780000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44687.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44696.jpg 9.780000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44704.jpg 9.780000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/44712.jpg 9.780000
@@ -5630,7 +5425,6 @@
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45045.jpg 8.970000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45054.jpg 7.460000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45062.jpg 4.030000
-/home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45063.jpg 0.000000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45071.jpg 4.030000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45079.jpg 3.230000
 /home/roy/Implementation-of-Pilotnet/fornewdataset/driving_dataset/driving_dataset/45087.jpg 2.220000
