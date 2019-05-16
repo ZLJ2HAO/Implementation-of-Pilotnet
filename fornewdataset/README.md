@@ -22,14 +22,13 @@ python canny.py
 ```bash
 python createhdf5.py
 ```
-In each folders you will have a `.h5` file. Change the path in `train_loc.txt` and `val_loc.txt`.
+In each folders you will get a `.h5` file. Change the path in `train_loc.txt` and `val_loc.txt`.
 
 * If you want to see the histogram of the original steering angle and labeled angle. You could change the path in the `display.py` file, open the terminal in this folder and type: 
 ```bash
 python display.py
 ```
-![Histogram of original steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/blob/master/figure/1.png)
-![Histogram of labeled steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/blob/master/figure/2.png)
+![Histogram of original steering angle](https://github.com/ZLJ2HAO/Implementation-of-Pilotnet/blob/master/figure/3.png)
 Blue bar means the training data, orange bar means the testing data
 * Now we can create the **lmdb** format data for Caffe to train. Also we need a meanfile that generated from the **lmdb** format data. Change the path in `create_imagenet.sh` and `compute_mean.sh`, open the terminal in this folder and type: 
 ```bash
